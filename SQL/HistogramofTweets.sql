@@ -1,1 +1,1 @@
-select * from tweets;
+select * from tweets
